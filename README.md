@@ -1,1 +1,1 @@
-# jeeva-art-gallery
+# jeeva-art-gallery setup
